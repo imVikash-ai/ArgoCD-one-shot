@@ -6,3 +6,5 @@ metadata:
 stringData:
   username: "<github-username>" # Your GitHub username for authentication
   password: "<personal-access-token>" # Your GitHub personal access token for authentication
+
+  
